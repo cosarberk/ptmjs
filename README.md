@@ -1,6 +1,6 @@
 # ptmjs
 
-![](https://github.com/cosarberk/ptmjs/images/ptmjs.png)
+![](https://github.com/cosarberk/ptmjs/blob/main/images/ptmjs.png)
 
 
 ##TR
