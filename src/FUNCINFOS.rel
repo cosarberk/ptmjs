@@ -1,0 +1,57 @@
+{
+"EN":{
+"package":{
+  "name":"PTMJS",
+  "description":"personal terminal manipulator",
+  "aim":"It was developed to increase the portability of javascript applications and to write fast applications.",
+  "author":"Berk COŞAR",
+  "link":"https://github.com/cosarberk",
+  "contact":"lookmainpoint@gmail.com",
+  "company":"Relteco INC",
+  "company contact":"relteco.com"
+
+},
+"functions":{
+"PTM":"The main function of the ptmjs package | needs to be called first to run ptmjs. It reads and shreds the file and makes ptmjs ready",
+"PDO":"PTM file reader function | hidden function | reads .ptm file from url and provides control",
+"KA":"command search function | list command and return the index of the command contained in it",
+"KL":"command search function | separates and lists command names from commandData array",
+"R":"command function | takes the given command and argument and executes corresponding operations in the ptm file",
+"REXEC":"The command execution function | is available as an option. Attempts to execute the given command in the operating system terminal.",
+"commandData":"array holding parsed commands and functions.",
+"PDMK":"Checking the header of the ptm file to make sure the ptm file.",
+"PtmParser":"Splits and parses the ptm file according to the ptm rules."
+}
+
+},
+
+
+"TR":{
+"paket":{
+  "isim":"PTMJS",
+  "açıklama":"kişisel uçbirim manipülatörü",
+  "gaye":"Javascript uygulamalarının taşınabilirliğini artırmak ve hızlı uygulamalar yazmak için geliştirilmiştir.",
+  "yazar":"Berk COŞAR",
+  "link":"https://github.com/cosarberk",
+  "ilwtişim":"lookmainpoint@gmail.com",
+  "kurum":"Relteco INC",
+  "kurum iletişimi":"relteco.com"
+},
+"fonksiyonlar":{
+"PTM":"ptmjs paketinin ana fonksiyonu | ptmjs'i çalıştırmak için ilk olarak çağrılamsı gerekir.dosyayı okuma ve parçalama işlemlerini gerçekleştirip,ptmjs'i hazır hale getirir ",
+"PDO":"PTM dosya okuyucu fonksiyonu | gizli fonksiyondur | urlden .ptm dosyası okur ve kontrolünü sağlar",
+"KA":"komut arama fonksiyonu | komut listeleyip içinde bulunan komutun indisini döndürür",
+"KL":"komut arama fonksiyonu | komutVerileri dizisinden komut isimlerini ayırıp listeler",
+"R":"komut çalıştırma fonksiyonu | içine verilen komut ve argümanı alıp ptm dosyasında karşılık geleb işlemleri çalıştırır",
+"REXEC":"komut çalıştırma fonksiyonu | opsiyonel olarak bulunur. verilen komutu işletim sistemi uçbirminde çalıştırmayı dener.",
+"komutVerileri":"ayrıştırılmış komut ve fonksiyonları tutan dizi.",
+"PDMK":"ptm dosyasının başlığını kontrol ederek ptm dosyasından emin olur.",
+"PtmParser":"ptm dosyasını ptm kurallarına göre parçalar ve ayrıştırır."
+
+
+
+}
+
+}
+
+}
