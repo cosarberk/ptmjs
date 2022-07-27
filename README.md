@@ -3,6 +3,12 @@
 ![](https://github.com/cosarberk/ptmjs/blob/main/images/ptmjs.png)
 
 
+
+fonksiyon açıklamaları için /src/FUNCINFOS.rel dosyasına bakın.
+
+See /src/FUNCINFOS.rel for function descriptions.
+
+
 ##TR
 
 
