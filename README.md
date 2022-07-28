@@ -119,7 +119,7 @@ ptmjs allows you to run your javascript functions like terminal commands.
 for this it needs the script you need to create beforehand.
 thus making your functions portable.
 
-#How to use ?
+# How to use ?
 - Save your functions in your js project to the .ptm file by specifying the command name.
 - Include ptmjs in your other js projects and compile your .ptm file.
 - now ,  
@@ -131,7 +131,7 @@ thus making your functions portable.
 ```
 You can run your commands as above.
 
-##.ptm File Example
+## .ptm File Example
 
 You can look at the ptmOrnekKomutDosyası.ptm file in the src folder in the ptmjs module.
 usage : <ptm> KomutAdı : işlevi  </ptm>
@@ -201,7 +201,7 @@ R(express,'server')
 
 ```
 
-#Warnings
+# Warnings
 
 - When including the .ptm file, do not include the file's extension (.ptm).
 - Just write the function body inside the .ptm file.
