@@ -9,15 +9,15 @@ fonksiyon açıklamaları için /src/FUNCINFOS.rel dosyasına bakın.
 See /src/FUNCINFOS.rel for function descriptions.
 
 
-##TR
+## TR
 
 
-#PTMJS Nedir ? 
+# PTMJS Nedir ? 
 ptmjs javascript fonksiyonlarınızı, uçbirim komutları gibi çalıştırmanızı sağlar.
 bunun için önceden oluşturmanız gereken komut dosyasına ihtiyaç duyar ve böylece
 fonksiyonlarınızı taşınabilir hale getirir.
 
-#Nasıl Kullanılır ? 
+# Nasıl Kullanılır ? 
 - Js projenizde bulunan fonksiyonlarınızı komut adı belirterek .ptm dosyasına kaydedin.
 - Diğer js projelerinize ptmjs'i dahil edin ve .ptm dosyanızı derleyin.
 - Artık yeni projenizde çalıştırmak istediğiniz fonksiyonları 
@@ -101,7 +101,7 @@ R(express,'server')
 
 ```
 
-#Uyarılar
+# Uyarılar
 
 - .ptm dosyasını dahil ederken dosyanın uzantısını (.ptm) eklemeyin.
 - .ptm dosyasının içine sadece fonksiyon işlevlerini yazın.
@@ -112,9 +112,9 @@ argv yazın.
 
 
 
-##EN
+## EN
 
-#PTMJS Nedir ?
+# WHAT IS PTMJS ?
 ptmjs allows you to run your javascript functions like terminal commands.
 for this it needs the script you need to create beforehand.
 thus making your functions portable.
